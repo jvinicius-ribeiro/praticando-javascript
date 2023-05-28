@@ -1,7 +1,7 @@
 //Aprendendo o uso de cada tipo de variável e exemplos de caso
 
 
-// var permite que novos valores seram reatribuídos à variável,  enquanto const(constante) não permite.
+// var permite que novos valores seram re-atribuídos à variável, enquanto const (constante) não permite.
 // let também permite que novos valores possam ser reatribuídos.
 
 if(true) {
@@ -15,8 +15,8 @@ if(true) {
 
 console.log(b);
 
-// o terminal será capaz de ler o valor de A, já que o console.log(a) está dentro do mesmo escopo. 
-// porém, não será possível ler o valor de B, já que dessa vez, o console.log está fora, portanto, escopos diferentes.
+// o terminal SERÁ capaz de ler o valor de A, já que o console.log(a) está dentro do mesmo escopo. 
+// porém, NÃO será possível ler o valor de B, já que dessa vez, o console.log está fora, portanto, escopos diferentes.
 
 
 if(true) {
