@@ -1,4 +1,4 @@
-console.log("Olá, mundo!");
+console.log('Olá, mundo!');
 
 // Quando precisamos comentar uma linha código, usamos essas duas barras.
 
