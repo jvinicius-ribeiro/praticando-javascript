@@ -5,10 +5,12 @@ if (condição) {
 }
 */
 
-let nomeFilme = "Batman";
+let nomeFilme = 'Shrek';
 
-if (nomeFilme === "Vingadores") {
-   console.log("É o filme dos Vingadores");
+if (nomeFilme === 'Vingadores') {
+  console.log('É o filme dos Vingadores');
+} else if (nomeFilme === 'Batman') {
+  console.log('É o filme do Batman');
 } else {
-    console.log("Trata-se de outro filme!")
+  console.log('Definitivamente, não é um bom filme!');
 }
