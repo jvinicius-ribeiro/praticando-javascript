@@ -8,8 +8,8 @@ Aprendendo o uso de cada tipo de variável e exemplos de caso:
 
 //Como escrever variáveis (camelCase):
 
-const nomePessoa = 'José';
-const emailCliente = 'nome@email.com';
+const nomePessoa = "José";
+const emailCliente = "nome@email.com";
 let valor = 0.99;
 let idadeUsuario = 23;
 var presencaAluno = true;
@@ -22,12 +22,12 @@ Exemplo 1.
 */
 
 if (true) {
-  let a = 10;
-  console.log(a);
+   let a = 10;
+   console.log(a);
 }
 
 if (true) {
-  let b = 20;
+   let b = 20;
 }
 
 console.log(b);
@@ -38,7 +38,7 @@ Ex. 2
 */
 
 if (true) {
-  var c = 30;
+   var c = 30;
 }
 
 console.log(c);
@@ -48,7 +48,7 @@ Ex. 3
 - valor de uma variável sendo re-atribuido com let;
 */
 
-let nomePersonagem = 'Pateta';
-nomePersonagem = 'Mickey';
+let nomePersonagem = "Pateta";
+nomePersonagem = "Mickey";
 
 console.log(nomePersonagem);
