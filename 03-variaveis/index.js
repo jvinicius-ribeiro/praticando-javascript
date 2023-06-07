@@ -22,12 +22,12 @@ Exemplo 1.
 */
 
 if (true) {
-   let a = 10;
-   console.log(a);
+  let a = 10;
+  console.log(a);
 }
 
 if (true) {
-   let b = 20;
+  let b = 20;
 }
 
 console.log(b);
@@ -38,7 +38,7 @@ Ex. 2
 */
 
 if (true) {
-   var c = 30;
+  var c = 30;
 }
 
 console.log(c);
