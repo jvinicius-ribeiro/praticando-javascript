@@ -1,3 +1,7 @@
 🚧🚧🚧 página em construção 🚧🚧🚧
 
-- Não se espante caso alguns arquivos aqui nesse repositório tiverem muitos comentários. Aproveitei para fazer anotações importantes enquanto estava aprendendo e praticando a linguagem, uma vez que esse diretório serve apenas como fonte de estudos! 
+<br>
+
+<p>Alguns dos arquivos aqui nesse repositório podem conter muitos comentários no corpo do código. Por se tratar de um repositório destinado à ser um instrumento/fonte de estudos, aproveitei para fazer anotações importantes enquanto estava aprendendo e praticando a linguagem!</p>
+
+<p>Sugestões e feedbacks são bem-vindos!! =)</p>
